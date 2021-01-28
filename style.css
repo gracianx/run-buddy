@@ -36,7 +36,7 @@
     margin: 7px 0;
   }
   
-  header nav ul li {
+  header nav ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -47,7 +47,7 @@
   header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
-    font-size: 22px;
+    font-size: 1.55vw;
   }
   
   /* HEADER / NAVBAR STYLES END */
